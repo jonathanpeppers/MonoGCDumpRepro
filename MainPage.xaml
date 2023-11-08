@@ -5,6 +5,7 @@
 
     <ScrollView>
         <VerticalStackLayout
+            x:Name="MainStackLayout"
             Padding="30,0"
             Spacing="25">
             <Image
